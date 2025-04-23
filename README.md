@@ -1,5 +1,6 @@
 # FULL_ADDER_SUBTRACTOR
-
+# NAME:J.JOSIPHA
+# REG NO:212224220044
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
